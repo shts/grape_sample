@@ -1,0 +1,44 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name main:</strong>
+  <%= @member.name_main %>
+</p>
+
+<p>
+  <strong>Name sub:</strong>
+  <%= @member.name_sub %>
+</p>
+
+<p>
+  <strong>Image url:</strong>
+  <%= @member.image_url %>
+</p>
+
+<p>
+  <strong>Birthday:</strong>
+  <%= @member.birthday %>
+</p>
+
+<p>
+  <strong>Birthplace:</strong>
+  <%= @member.birthplace %>
+</p>
+
+<p>
+  <strong>Blood type:</strong>
+  <%= @member.blood_type %>
+</p>
+
+<p>
+  <strong>Constellation:</strong>
+  <%= @member.constellation %>
+</p>
+
+<p>
+  <strong>Height:</strong>
+  <%= @member.height %>
+</p>
+
+<%= link_to 'Edit', edit_member_path(@member) %> |
+<%= link_to 'Back', members_path %>

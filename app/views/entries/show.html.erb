@@ -1,0 +1,49 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @entry.title %>
+</p>
+
+<p>
+  <strong>Body:</strong>
+  <%= @entry.body %>
+</p>
+
+<p>
+  <strong>Yearmonth:</strong>
+  <%= @entry.yearmonth %>
+</p>
+
+<p>
+  <strong>Week:</strong>
+  <%= @entry.week %>
+</p>
+
+<p>
+  <strong>Day:</strong>
+  <%= @entry.day %>
+</p>
+
+<p>
+  <strong>Author:</strong>
+  <%= @entry.author_id %>
+</p>
+
+<p>
+  <strong>Publicshed:</strong>
+  <%= @entry.publicshed %>
+</p>
+
+<p>
+  <strong>Image url list:</strong>
+  <%= @entry.image_url_list %>
+</p>
+
+<p>
+  <strong>Comment:</strong>
+  <%= @entry.comment_id %>
+</p>
+
+<%= link_to 'Edit', edit_entry_path(@entry) %> |
+<%= link_to 'Back', entries_path %>

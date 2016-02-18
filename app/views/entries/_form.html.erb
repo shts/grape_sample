@@ -1,0 +1,53 @@
+<%= form_for(@entry) do |f| %>
+  <% if @entry.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@entry.errors.count, "error") %> prohibited this entry from being saved:</h2>
+
+      <ul>
+      <% @entry.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :title %><br>
+    <%= f.text_field :title %>
+  </div>
+  <div class="field">
+    <%= f.label :body %><br>
+    <%= f.text_field :body %>
+  </div>
+  <div class="field">
+    <%= f.label :yearmonth %><br>
+    <%= f.text_field :yearmonth %>
+  </div>
+  <div class="field">
+    <%= f.label :week %><br>
+    <%= f.text_field :week %>
+  </div>
+  <div class="field">
+    <%= f.label :day %><br>
+    <%= f.text_field :day %>
+  </div>
+  <div class="field">
+    <%= f.label :author_id %><br>
+    <%= f.number_field :author_id %>
+  </div>
+  <div class="field">
+    <%= f.label :publicshed %><br>
+    <%= f.text_field :publicshed %>
+  </div>
+  <div class="field">
+    <%= f.label :image_url_list %><br>
+    <%= f.text_field :image_url_list %>
+  </div>
+  <div class="field">
+    <%= f.label :comment_id %><br>
+    <%= f.number_field :comment_id %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

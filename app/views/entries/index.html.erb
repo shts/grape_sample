@@ -1,0 +1,43 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Listing Entries</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Body</th>
+      <th>Yearmonth</th>
+      <th>Week</th>
+      <th>Day</th>
+      <th>Author</th>
+      <th>Publicshed</th>
+      <th>Image url list</th>
+      <th>Comment</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @entries.each do |entry| %>
+      <tr>
+        <td><%= entry.title %></td>
+        <td><%= entry.body %></td>
+        <td><%= entry.yearmonth %></td>
+        <td><%= entry.week %></td>
+        <td><%= entry.day %></td>
+        <td><%= entry.author_id %></td>
+        <td><%= entry.publicshed %></td>
+        <td><%= entry.image_url_list %></td>
+        <td><%= entry.comment_id %></td>
+        <td><%= link_to 'Show', entry %></td>
+        <td><%= link_to 'Edit', edit_entry_path(entry) %></td>
+        <td><%= link_to 'Destroy', entry, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Entry', new_entry_path %>

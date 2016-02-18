@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  body: MyString
+  yearmonth: MyString
+  week: MyString
+  day: MyString
+  author_id: 1
+  publicshed: MyString
+  image_url_list: MyString
+  comment_id: 1
+
+two:
+  title: MyString
+  body: MyString
+  yearmonth: MyString
+  week: MyString
+  day: MyString
+  author_id: 1
+  publicshed: MyString
+  image_url_list: MyString
+  comment_id: 1
