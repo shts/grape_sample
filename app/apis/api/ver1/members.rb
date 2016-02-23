@@ -17,6 +17,7 @@ module API
         get ':id' do
           Member.find(params[:id])
         end
+
       end
     end
   end
