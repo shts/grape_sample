@@ -14,15 +14,15 @@ module API
           if params[:skip].present? && params[:limit].present? then
             @entries = Entry.where("id > ?", params[:skip])
                             .limit(params[:limit])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           elsif params[:skip].present? then
             @entries = Entry.where("id > ?", params[:skip])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           elsif params[:limit].present? then
             @entries = Entry.limit(params[:limit])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           else
-            @entries = Entry.limit(30).order(publicshed: :desc)
+            @entries = Entry.limit(30).order(published: :desc)
           end
         end
 
@@ -48,17 +48,17 @@ module API
             @entries = Entry.where("member_id = ?", params[:member_id])
                             .where("id > ?", params[:skip])
                             .limit(params[:limit])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           elsif params[:skip].present? then
             @entries = Entry.where("member_id = ?", params[:member_id])
                             .where("id > ?", params[:skip])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           elsif params[:limit].present? then
             @entries = Entry.where("member_id = ?", params[:member_id])
                             .limit(params[:limit])
-                            .order(publicshed: :desc)
+                            .order(published: :desc)
           else
-            @entries = Entry.limit(30).order(publicshed: :desc)
+            @entries = Entry.limit(30).order(published: :desc)
           end
         end
         

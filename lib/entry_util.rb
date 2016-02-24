@@ -35,9 +35,6 @@ class EntryUtil
       end
       
       data[:member_id] = to_member_id(url)
-      
-      # TODO: 
-      #published = DateTime.parse(kiji.css('div.kiji_foot')[0].text.gsub(/(\r\n|\r|\n|\f)/,""))
       data[:published] = kiji.css('div.kiji_foot')[0].text.gsub(/(\r\n|\r|\n|\f)/,"")
       yield(data) if block_given?
     end
@@ -56,23 +53,21 @@ class EntryUtil
   end
   
   def self.to_member_id(url)
-    splited = url.split("=")
-    splited[splited.length - 1].to_i
-  end
-
-  def self.is_new?(author, published)
-    # 新規レコードかどうかを判定する
-    #Entry.where("member_id = ?").where("published = ?", )
-    true
+    url_splited = url.split("=")
+    url_id = url_splited[url_splited.length - 1]
+    
+    Member.all.each do |member|
+      splited = member.blog_url.split("=")
+      member_id = splited[splited.length - 1]
+      return member.id if member_id == url_id
+    end
   end
 
   def self.crawlpage(need_loop)
     Member.all.each do |member|
     puts "crawlpage start"
       parsepage(member.blog_url, need_loop) { |data|
-      puts "data -> #{data}"
-        Entry.create(title: data[:title], body: data[:body], yearmonth: data[:yearmonth], week: data[:week], day: data[:day], member_id: data[:member_id], publicshed: data[:published], image_url_list: data[:image_url_list].to_json.to_s)
-        #yield(data) if block_given?
+        Entry.create(title: data[:title], body: data[:body], yearmonth: data[:yearmonth], week: data[:week], day: data[:day], member_id: data[:member_id], published: data[:published], image_url_list: data[:image_url_list].to_json.to_s)
       }
     end
   end

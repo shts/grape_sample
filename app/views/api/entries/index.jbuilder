@@ -6,7 +6,7 @@ json.array!(@entries) do |entry|
   json.yearmonth = entry.yearmonth
   json.day = entry.day
   json.week = entry.week
-  json.published = entry.publicshed
+  json.published = entry.published
 
   json.member_id = entry.member.id
   json.member_name_main = entry.member.name_main
