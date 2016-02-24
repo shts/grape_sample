@@ -36,25 +36,25 @@ module API
           Entry.find(params[:id])
         end
         
-        # GET /api/v1/entries/members/{:member_id}?skip={:skip}&limit={:limit}
+        # GET /api/v1/entries/member/{:member_id}?skip={:skip}&limit={:limit}
         desc 'Return a member entries.'
         params do
           requires :member_id, type: Integer, desc: 'Member id.'
           optional :skip, type: Integer, desc: 'Skip range.'
           optional :limit, type: Integer, desc: 'Limit of entries.'
         end
-        get 'members/:member_id', jbuilder:'entries/index' do
+        get 'member/:member_id', jbuilder:'entries/index' do
           if params[:skip].present? && params[:limit].present? then
-            @entries = Entry.where("member_id > ?", params[:member_id])
+            @entries = Entry.where("member_id = ?", params[:member_id])
                             .where("id > ?", params[:skip])
                             .limit(params[:limit])
                             .order(publicshed: :desc)
           elsif params[:skip].present? then
-            @entries = Entry.where("member_id > ?", params[:member_id])
+            @entries = Entry.where("member_id = ?", params[:member_id])
                             .where("id > ?", params[:skip])
                             .order(publicshed: :desc)
           elsif params[:limit].present? then
-            @entries = Entry.where("member_id > ?", params[:member_id])
+            @entries = Entry.where("member_id = ?", params[:member_id])
                             .limit(params[:limit])
                             .order(publicshed: :desc)
           else
