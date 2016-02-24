@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>渡邉 理佐 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">23</span><span class="kiji_week">水</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">大食い</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span>こんばんは!!</span><br><span></span><br><span></span><br><span></span><br><span>昨日は書けなくてごめんなさい(´･_･`)</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>もう見てくださった方はいるのかな??</span><br><span></span><br><span>”HUSTLE PRESS”さんの欅坂の連載に、葵、愛佳と一緒に出させて頂いています。</span><br><span></span><br><span></span><br><span>甘い物の話やよく食べる話をしたら、”甘食大食いシスターズ”という名前を付けられてしまいました(笑)</span></div><div><br></div><div><br></div><div><br></div><div>まだまだファンの方が知らない私たちがあるので、是非見てみてください^ ^</div><div><br><br><br></div><div id="AppleMailSignature"><img src="/files/14/diary/k46/member/moblog/201512/mob0eJOO3.jpg" alt="image1.JPG" id="AE849C3D-9B22-4168-A34A-2DA5E18583A8"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">ほんとに葵は妹みたいです。</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">眠たいのでもう寝ます</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div id="AppleMailSignature"><br></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/23 22:58
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">21</span><span class="kiji_week">月</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">バレー</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span>愛佳と美波とオダナナと私の4人で、バレーボールしました。</span><br><span></span><br><span></span><br>オダナナが奇声をあげながらボールを取っていて、3人で笑っていました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ほんとにほんとにほんとに!!!</div><div><br></div><div>面白かったんです。</div><div><br></div><div><br></div><div>楽しかった〜<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">久しぶりにバレーしたので、なんだか懐かしかったです</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">またみんなでバレーがしたい。。</span></font></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobDoeK4g.jpg" alt="image1.JPG" id="7FAA4AFA-F612-440D-B452-74538E59A163"><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div>わたしが持っているのはなんでしょう</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>いつも内容が薄くてすみません、、</div><div><br></div><div>また明日も待っててください<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おわり<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/21 22:43
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">20</span><span class="kiji_week">日</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">握手</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span>今日は ららぽーと富士見店さんで、ミニ握手会をさせて頂きました!</span><br><span></span><br><span></span><br><span>寒い中お越しくださった皆さん、ありがとうございます。</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>初めてチラシ配りを体験したのですが、、</span><br><span></span><br><span>メンタルやられます。(笑)</span><br><span></span><br><span>一回受け取って貰えなくなると、なかなか自分から渡しに行くことができませんでした&gt;_&lt;</span><br><span></span><br><span></span><br><span>それでもたくさんの方が握手しに来てくださって、とっても嬉しかったです!^ ^</span><br><span></span><br><span></span><br><span>近いうちに、また握手会出来たらいいな～</span><br><span></span><br><span></span><br><span></span><br><span>そして!!</span><br><span>握手してくださったほとんどの方に、”ショートの方がいいね”と言っていただいて、伸ばしたいな～と思っていたのですが、切ってよかったなって思いました!(笑)</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobiOkG0l.jpg" id="B87C9C07-ABAE-4B62-B5ED-636A84F6FD8E"></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>おわり</span><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b><br></b></span></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/20 23:28
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">19</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">高速道路</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>こんばんは</div><div><br></div><div><br></div><div><br></div><div>今日 久々に高速道路を通りました</div><div><br></div><div>高速道路ってなんだかテンション上がります</div><div><br></div><div><br></div><div>旅行に行く気分<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">最近通ったのはいつだろう</span></font></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">あれだ、今年の年明けにスノボに行ったとき以来だ</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">最近じゃないけど、、</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">晴れていたのでスキー場が暑かったのを覚えています。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">楽しかったな〜〜</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">また行きたい!!!!!!</span></font></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">行きたいところがたくさん。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><img src="/files/14/diary/k46/member/moblog/201512/mobsNZf3r.jpg" alt="image1.JPG" id="508134FF-E1CD-41D5-B0BB-32CFD22DDDF1"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">まだ髪の毛が長かった時代、、(笑)</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">懐かしい。</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">おわり<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div id="AppleMailSignature"><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b><br></b></span></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/19 23:40
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">18</span><span class="kiji_week">金</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">真冬</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv=Content-Type content="text/html; charset=Shift_JIS"><div><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">こんばんは!!!</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">外寒すぎる、、</div><div id="AppleMailSignature">外じゃなくても寒すぎる。</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">この季節は毎年 ヒートテック2枚着て、お腹と背中にカイロを貼って、貼らないカイロをコートのポッケに一個づつ入れて外に出ます。</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">それでも寒い</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">早く夏にならないかな〜</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">暑いけど夏好きです。</div><div id="AppleMailSignature">わたしの周りのお友達はみんな夏が嫌いみたいです。</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">みなさん、夏と冬どっちが好きですか????</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">ひーーーーーー寒い</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><img src="/files/14/diary/k46/member/moblog/201512/mobQj0Fn1.jpg" alt="image1.JPG" id="BF2B6FD9-0434-4193-B986-6444CDD2AB20"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">ふーちゃん(齋藤冬優花)と!!!!</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">最近よく話します!</div><div id="AppleMailSignature">ふーちゃんほんとに面白いんです!!</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature">話すと絶対笑う気がします、、(笑)</div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><b>りさ</b></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div><div id="AppleMailSignature"><br></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/18 22:36
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3848&page=5&cd=member&ct=21">← 前へ</a></li>
+  <li>7/13</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3848&page=7&cd=member&ct=21">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3848&cd=member">トップページ</a><br /></body>
+</html>

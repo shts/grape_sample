@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>小林 由依 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">06</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">小林 由依</span>
+<span class="kiji_title">フォーティーシックス☆彡</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><br></div><div><br></div><div>てーれって &nbsp;てーれって &nbsp;てーれって &nbsp;てれれれ</div><div>てーれって &nbsp;てーれって &nbsp;てーれって &nbsp;てれれれ〜<br><br><br>小林由依です♪<br><br>こんばんは〜<br><br><br><br><br><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>みなさん、</div><div>もう公式サイトは見ていただけましたか?</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>前々から、2月6日の10時に何かが起こるような</div><div>予告をしておりました!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>そして予告通りの今日、10時。</div><div><br></div><div><br></div><div>欅坂46公式サイトにて、発表がありました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>それは…</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><b>欅坂46、2016年4月6日にデビュー!</b></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>という発表です!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>私たちもつい最近、スタッフさんから</div><div>デビュー日を発表されました</div><div><br></div><div><br></div><div><br></div><div><br></div><div>発表された時は、</div><div>普通なら、嬉しさや不安などを感じるかもしれません</div><div><br></div><div><br></div><div><br></div><div>でも、なにも感じられませんでした。</div><div><br></div><div><br></div><div><br></div><div>まだ『デビュー』という言葉が</div><div>遠く感じていたので、</div><div>反応することが出来ませんでした。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>でも今日の公式サイトの動画を見た瞬間、</div><div>涙がこぼれそうになりました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div>overtureのBGMに、</div><div>今までの思い出がたくさん詰まった動画で</div><div>すごく感動しました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>デビューを待ってくださっていたファンの皆様、</div><div>本当にありがとうございました!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>乃木坂46さんよりはデビューが遅いです。</div><div><br></div><div><br></div><div>でもその分もっと成長して、</div><div>4月6日!フォーティーシックスの日の</div><div>デビューに備えたいと思います!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ファンレターやイベントなどでの皆様の声、</div><div>しっかり届いています</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>結成されて約半年で、</div><div>まだまだ未熟で何も知らない私たちですが</div><div><br></div><div><br></div><div>これからも、</div><div>末長く応援のほどよろしくお願いいたします。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ぽんっ</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobYdb46g.jpg" alt="image3.JPG" id="3C7F9863-8190-455B-9846-681B05D25A98"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>よーし!</div><div><br></div><div><br></div><div>明日からも頑張るぞおおおおおお!!!!!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>学校やお仕事があった方、お疲れ様でした♡</div><div><br></div><div><br></div><div>明日こそ!</div><div>ゆっくり休んでくださいね♪♪</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おやすみなさい</div><div><br></div><div>see you again ⊿⊿</div><div><br></div><div><br></div><div><br></div><div><br></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/06 23:25
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">05</span><span class="kiji_week">金</span>
+</td>
+<td class="title">
+<span class="kiji_member">小林 由依</span>
+<span class="kiji_title">Watch TV☆彡</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div><br></div><div>たまごかけごはん &nbsp;&nbsp;</div><div><br></div><div>てぃー!けー!じー!</div><div><br></div><div><br></div><div>が食べたい衝動に駆られます</div><div><br></div><div>私は卵をそのままご飯の上で割る派です</div><div>先に卵はときません。なんとなく。</div><div><br></div><div>混ぜちゃえば一緒ですけど。</div><div><br></div><div><br></div><div><br></div><div>小林由依です♪</div><div><br></div><div>こんばんは〜</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ドラマ見たいな〜</div><div><br></div><div><br></div><div><br></div><div>今期のドラマは全部</div><div>まだ一話しか見れてないんです</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>毎日お家にいてテレビを見て</div><div>もう見るものがなくなってしまうくらい</div><div>テレビっ子だった私に</div><div><br></div><div><br></div><div>ドラマが見られない生活が訪れるなんて…</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>皆さんはいつも</div><div>どんな番組やドラマを見ていますか〜?</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>私は深夜にやっているようなドラマが好きです</div><div><br></div><div><br></div><div><br></div><div>深夜はコメディ系が多くて</div><div>寝られないときに見るともっと寝られなくなります。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>皆さんも見てみてください</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>ぽんっ<div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobezghSZ.jpg" alt="image1.JPG" id="3322696E-4280-4706-A73F-8B875EB821D7"><br></div><div><br></div><div><b>ちら。</b></div><div><br></div><div>少し前髪切った。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>今日もお疲れ様でした</div><div><br></div><div><br></div><div><br></div><div>明日お休みの方はゆっくりしてください♡</div><div><br></div><div><br></div><div>お仕事や学校の方、がんばれー!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おやすみなさい</div><div><br></div><div>see you again ⊿⊿</div><div><br><br><br></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/05 20:49
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">04</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">小林 由依</span>
+<span class="kiji_title">ゆるブログ☆彡</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><br><br>砂糖と牛乳が足りない!!!!<div><br></div><div>そうです。牧場ゲームのお話です。</div><div><div><br></div><div><br></div><div>こんばんは〜</div><div><br></div><div>小林由依です♪</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>あれ、逆だ。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>小林由依です♪</div><div><br></div><div>こんばんは〜</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>この前はツインテールの日だったのですね。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ということで…</div><div><br></div><div>ツインテール…</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>しません。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>よくブログを読んでくださる方は</div><div><br></div><div><br></div><div><br></div><div>やっぱりな 笑&nbsp;</div><div><br></div><div><br></div><div>と思っていらっしゃることでしょう。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おめでとうございます正解です。</div><div><br></div><div><br></div><div>ツインテールはしません</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>…いつかします</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ぽんっ</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobvqbjGR.jpg" alt="image4.JPG" id="E26408E5-7E54-483B-B6EE-B399B857F497"><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobKiwhyo.jpg" alt="image5.JPG" id="E1B7412C-7DDE-403E-A8C3-CD4275B9F83E"><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobkhHROV.jpg" alt="image6.JPG" id="C7BDAD54-99FA-451C-B507-D671C714AB61"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>はい、</div><div><br></div><div><br></div><div><br></div><div><b>小林由依 3連発〜</b></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>前髪が伸びたのでピンでとめました</div><div><br></div><div><br></div><div><br></div><div>みーちゃんにはこっちの前髪の方が良い!</div><div>って言われます</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>皆さんはどうですか〜</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>と一応聞きますが、</div><div><br></div><div>前髪は変えません(　˙-˙　)</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>…たまに変えようと思います</div></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>今日もお疲れ様でした!</div><div><br></div><div><br></div><div><br></div><div>おやすみなさい</div><div><br></div><div>see you again ⊿⊿</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/04 21:07
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">03</span><span class="kiji_week">水</span>
+</td>
+<td class="title">
+<span class="kiji_member">小林 由依</span>
+<span class="kiji_title">福よ、お家に入ってこい!☆彡</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><br><div><span style="background-color: rgba(255, 255, 255, 0);">スカートに、1580円の値札を付けたまま</span></div><div><span style="background-color: rgba(255, 255, 255, 0);">履いていました。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">どうせ付けたままなら</span></div><div><span style="background-color: rgba(255, 255, 255, 0);">もっと高い値札を付けておけばよかった。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">小林由依です♪</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">こんばんは〜</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">節分ですね〜</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">鬼は〜外〜</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">福は〜内〜</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">皆さんは豆まきしましたか?</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">私はしていないです。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">幼稚園の頃はバスの運転手さんが鬼の格好をして</span></div><div><span style="background-color: rgba(255, 255, 255, 0);">鬼がよく持っている棒からでる煙を手ですくって</span></div><div><span style="background-color: rgba(255, 255, 255, 0);">頭を撫でてくれました</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">頭がよくなるのかな。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">え?(　˙-˙　)</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">そういえば。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">節分の豆って、</span></div><div><span style="background-color: rgba(255, 255, 255, 0);">歳の分しか食べられないじゃないですか?</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">本当にそれが理解できなくて…</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">だって9歳の子は9粒しか食べられないんですよ!</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">もっと食べたいじゃないですか!</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">と、思っていた9歳の時期。。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">でも!</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">今年は16粒も食べられます\( ˙▿︎˙ )/</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">成長しましたね〜</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);">皆さんのお家に福が訪れますように。</span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><div><span style="background-color: rgba(255, 255, 255, 0);"><br></span></div><span style="background-color: rgba(255, 255, 255, 0);"><br><br>ぽんっ</span><div><span style="-webkit-text-size-adjust: auto;"><br><img src="/files/14/diary/k46/member/moblog/201602/mobDxPoKA.jpg" alt="image1.JPG" id="989EED62-ED9D-4B31-8BFB-9DC7E7811D0D"></span><br></div><div><span style="-webkit-text-size-adjust: auto;"><br></span></div><div><span style="-webkit-text-size-adjust: auto;"><b>髪の毛がへんな方向にパー。</b></span></div><div><br><br><br>どうしてこんなにくねっちゃったんだ?</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>豆がないのでエアー豆まきしてきます。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おやすみなさい</div><div><br></div><div>see you again ⊿⊿</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/03 23:10
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">02</span><span class="kiji_week">火</span>
+</td>
+<td class="title">
+<span class="kiji_member">小林 由依</span>
+<span class="kiji_title">靴がきゅうくつ。ごめんなさいダジャレじゃないです。☆彡</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><br><br>何年かぶりにドロップスを買いました<div><br></div><div>ハッカだけ残していた人、正直に挙手～</div><div><br></div><div><br></div><div>小林由依です♪</div><div><br></div><div>こんばんは～</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>寒いですね～</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>凍えてしまいます</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>昨日はお姉ちゃんとアウトレットに行って</div><div>お洋服を調達して来たました!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>また好きなブランドが一つ増えた～</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>そこで一目惚れして買った靴があったのですが</div><div>サイズの小さいものを買ってしまって</div><div>すごくきついです。もったいないので履いています</div><div><br></div><div><br></div><div>履き続ければゆるくなるかな…?</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ぽんっ</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobIorIIQ.jpg" alt="image1.JPG" id="7D196550-3CBE-4D5F-900E-55E4CDBB3134"><br></div><div><br></div><div><b>制服を着たマネキンだ～</b></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>すみません、今日は時間がなかったので</div><div>内容が薄くて申し訳ありません( ; &nbsp;; )</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ぽんっ</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201602/mobMP5vSz.jpg" alt="image2.JPG" id="870145C5-979A-4CFD-A4AB-3CC5533C4724"><br></div><div><br></div><div>わたしのフリスビーはどこへ飛んでったのだろう。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>皆さん風邪引いてませんか?</div><div><br></div><div><br></div><div>寒いしインフルエンザも流行っているので</div><div>気をつけてくださいね(´･_･`)</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>おやすみなさい</div><div><br></div><div>see you again ⊿⊿</div><div><br></div><div><br></div><div><br></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/02 23:54
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3658&page=2&cd=member&ct=07">← 前へ</a></li>
+  <li>4/20</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3658&page=4&cd=member&ct=07">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3658&cd=member">トップページ</a><br /></body>
+</html>

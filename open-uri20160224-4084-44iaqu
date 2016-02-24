@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>長濱 ねる OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">17</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">長濱 ねる</span>
+<span class="kiji_title">焼き豆腐、11</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=cp932"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span>こんばんは!</span><br><span></span><br><br><br><span></span><br><span></span><br><span>お魚食べたい気分です。</span><br><span>お刺身～焼き魚～</span><br><span></span><br><span></span><br><span></span><br><span>お肉も食べたい気分です。</span><br><span>コンビニで、牛ザブトンというおにぎりをみつけて、座布団みたいに大きなお肉なんだろうな～と思っていつも狙ってたんです。</span><br><span></span><br><br><span>そしたら、ザブトンは部位の名前だって友達が教えてくれました/(^o^)＼</span><br><span></span><br><span></span><br><span></span><br><span>そうなん!!!</span><br><span></span><br><span></span><br><span>早く食べてみたいです。</span><br><span>雑学王になりたいです。</span><br><span></span><br><span></span><br><span></span><br><span></span><br>きょうはこんな感じです。</div><div><br></div><div><br></div><div>ブログお読みいただきありがとうございました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>(　˙-˙　)♡</div><div><br></div><div><br></div><div><br></div><div><br></div><div>あ!!!!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>どどどん!</div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobWQeqc0.jpg" alt="image1.JPG" id="046F6283-291E-4AC8-8077-6EFD6421C306"><br></div><div><br></div><div><br></div><div>ブログ初登場は、しーちゃんです!!!</div><div><br></div><div><br></div><div>ずっと毎日気にかけてくれて、話してくれて、</div><div>いっぱい仲良くなりました。</div><div><br></div><div>お姉さんみたい。大好きです。</div><div><br></div><div><br></div><div>しーちゃん一番に載せたくて、写真撮れるの待ってた!!やっと!!!</div><div><br></div><div><br></div><div><br></div><div>メンバーの方はみんな優しくて、楽しいです。</div><div>ありがたいな〜</div><div><br></div><div>普通だったら出会わなかった人たちなんだなって思うと不思議ですよね。</div><div>すごく大切です。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>寒くなってきたので、体調には気をつけてくださいね。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><b>長濱ねる</b><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br></div></div></div><div></div></div></div></div></div></div></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/17 21:39
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">17</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">長濱 ねる</span>
+<span class="kiji_title">サンドイッチ、10</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div></div><div><br></div><div><br></div><div><br></div><div><br></div><div>こんばんは!!</div><div><br></div><div>FNS歌謡祭みてくださいましたか!?</div><div>欅坂46が出演致しました!</div><div><br></div><div><br></div><div><br></div><div>アイドルメドレー素晴らしかったです。</div><div><br></div><div>私はけやき坂ということで、</div><div>今回は参加することができなかったのですが</div><div><br></div><div>しっかりとメンバーの勇姿を目に焼き付けました!!!!</div><div><br></div><div><br></div><div>かっこよすぎました。</div><div>完璧でした。</div><div>感動しました、、、。</div><div><br></div><div><br></div><div><br></div><div><br></div><div>私も次こそは出演できるように、</div><div>しっかりと今やれることに全力を注いでいきます。</div><div><br></div><div><br></div><div><br></div><div><br></div><div>アイドルってやっぱりすごいな〜と心から思いました。</div><div><br></div><div>見ている私が自然に笑顔になれました。</div><div><br></div><div><br></div><div><br></div><div>かっこいい。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>素敵な気持ちで眠れそうです。</div><div><br></div><div><br></div><div><br></div><div>ブログお読みいただきありがとうございました!</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobpSc7c5.jpg" alt="image1.JPG" id="32549616-7059-4CE3-BDC6-D7ED66296584"><br></div><div><br></div><div><b>長濱ねる</b></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/17 00:52
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">16</span><span class="kiji_week">水</span>
+</td>
+<td class="title">
+<span class="kiji_member">長濱 ねる</span>
+<span class="kiji_title">きなこ、9</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span>こんばんは(﹡ˆᴗˆ﹡)</span><br><span></span><br><br><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobw1ALto.jpg" alt="image1.JPG" id="967BA608-CC7D-4AF7-A461-AA859734C554"><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">でん。</span><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">(薄目)</span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">この顔よくします。能面攻撃です。</span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">ちなみに服は欅色です。</span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">私服です。</span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span><span></span><br><span>最近はずっとvictoria's secretの動画をみてます!</span><br><span>綺麗!!!ふぁー!!!!</span><br><span></span><br>お人形さんみたいなモデルさんたちがかっこよくて可愛くて、、、、</div><div><br></div><div>すごいです。世界は広いです。</div><div><br></div><div><br><span></span><br><br><span></span><br><span>井上苑子さんのMVを見るのも好きです。</span><br>キラキラしてますね(´-`).｡oO(✨</div><div><br></div><div><br></div><div><br></div><div><br></div><div>気分をあげたいときは、ladybabyさんのニッポン饅頭をききます!</div><div><br></div><div>これ聞いたら自然とノリノリになります</div><div>本当です</div><div>100パーセントです</div><div><br></div><div><br></div><div><br></div><div>もともと金子理江さんの大ファンで、!!</div><div>(川後さんが番組で紹介してらっしゃって、すごく共感しました)</div><div><br></div><div><br></div><div><br></div><div>そして、ladybabyさんを知り、ニッポン饅頭という曲の虜になりました</div><div><br></div><div>れいちゃんすきです!!</div><div>ビアちゃんも!!!</div><div><br></div><div><br></div><div><br></div><div>理江ちゃんとれいちゃん、、、♡♡</div><div><br></div><div><br></div><div>一見、タイプの違うふたりですが仲良しで</div><div>本っ当に可愛くて憧れなんです。</div><div><br></div><div><br></div><div><br></div><div><br></div><div>欅坂のメンバーのみなさんも、それぞれ個性がありキラキラしていて</div><div>とびきり可愛くて</div><div>毎日キュンキュンしてます(｡-_-｡)</div><div><br></div><div><br></div><div>私にないものをたくさんもっていて</div><div>日々刺激をうけています。</div><div><br></div><div><br></div><div>メンバーとお出かけするのが</div><div>今年中の目標です</div><div><br></div><div><br></div><div><br></div><div><br></div><div>おりかちゃんと葵ちゃんが私に秘密で</div><div>お出かけプランを練ってくれるらしいので</div><div>楽しみに待ってます</div><div><br></div><div><br></div><div>ニヤニヤしちゃう。</div><div><br></div><div><br></div><div><br></div><div>今日もブログお読みいただきありがとうございました(´-`).｡oO(</div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobvIXrv8.jpg" alt="image5.JPG" id="FA4FA7D0-B698-4F61-88F9-667C871D1DD6"><br></div><div><br></div><div><br></div><div>(大福みたい)</div><div><br></div><div><br></div><div><br></div><div><br></div><div>今日はメンバーと写真撮りました!♡</div><div>のんびり載せていきますね!!!</div><div><br></div><div><br></div><div>世界が明日もいい1日になりますように</div><div><br></div><div><br></div><div><b>長濱ねる</b></div><div><br></div><div><br></div><div></div></div></div></div></div></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/16 00:08
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">14</span><span class="kiji_week">月</span>
+</td>
+<td class="title">
+<span class="kiji_member">長濱 ねる</span>
+<span class="kiji_title">アイス、8</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span></span><br>こんばんは</div><div><br></div><div><br></div><div>私の兄はウーパールーパーを飼っています。</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobaY0xhp.jpg" alt="image1.JPG" id="B04E5E50-EB5A-4D1C-BF33-1CDA5EBAE719"><br></div><div><br></div><div><br></div><div><br></div><div>可愛い、、、、(｡-_-｡)</div><div><br></div><div><br></div><div><br></div><div>名前が2通りあって</div><div><br></div><div>『うぱお』</div><div><br></div><div>と</div><div><br></div><div>『ささみ』</div><div><br></div><div><br></div><div>です。</div><div>私はうぱおと呼んでいるのですが、</div><div>お肉のささみに似てるからって</div><div>ささみって家族は呼びます。</div><div><br></div><div><br></div><div><br></div><div>見れば見るほど愛嬌ありますね(　˙-˙　)♡</div><div>スターポーズです☆☆☆☆</div><div><br></div><div><br></div><div><br></div><div>けど、近くで見ると意外大きくて</div><div>透けていて結構びっくりします。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>うぱお〜</div><div><br></div><div><br></div><div><br></div><div>ブログお読みいただきありがとうございます</div><div><br></div><div><b>長濱ねる</b></div><div><br></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/14 21:27
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">12</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">長濱 ねる</span>
+<span class="kiji_title">ハンバーガー、7</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><br></div><div><br></div><div><br></div><div><span></span>こんばんは(﹡ˆᴗˆ﹡)</div><div><br></div><div><br></div><div><br><span></span>そういえば!(笑)<br><span></span><br><span>この間、電車に乗っていると</span><br><span>隣に座っていた小学生低学年くらいの男の子が</span><br><span>突然私に、国語の教科書を音読して聞かせてくれました(笑)</span><br><span></span><br><span></span><br><span>「お手紙」という、かえるくんとガマくんの話でした。</span><br><span>私も小さい頃大好きな話だったので、思い出して懐かしくなりました(´-`).｡oO(</span><br><span></span><br><span></span><br><span>ちゃんとセリフのところは声のトーンを変えて読んでくれて、可愛くてほのぼのしました。</span><br><span></span><br><span>小さい幸せ感じました(﹡ˆᴗˆ﹡)</span><br><span>ふぁ〜</span><br><span></span><br><br>小さい頃読んだ絵本とかってなんとなく覚えていて</div><div><span></span>それを見るだけで、その時の光景がぼんやりと思い出されるんです!!</div><div><br></div><div>あったかいお昼だったな〜とか(´-`).｡oO(</div><div><br></div><div><br></div><div><br></div><div>ちなみに、魔女の宅急便の、</div><div>やさしさに〜つつまれたなら〜きっと〜〜♩</div><div><br></div><div>という曲を聴くと小さい頃おつかいにいっていた、移動パン屋さんのいい匂いを思い出します。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobhKB14d.jpg" alt="image1.JPG" id="52B26219-3D30-4198-92E0-C6A99CEC6479"><br></div><div><br></div><div>(私が撮りました!)</div><div><br></div><div><br></div><div>眼鏡橋を見ると、長崎のチリンチリンアイスの味を思い出します。</div><div><br></div><div><br></div><div>みなさんはこのようなことありますか?(　˙-˙　)♡<br><br></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><br></div><div><br></div><div>最後までお読みいただきありがとうございました。</div><div><br></div><div><br></div><div><br></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><b><br></b></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><b>長濱ねる</b></span></div><div><b><br></b></div><div><b><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br></b><span></span><br></div><div></div></div></div></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/12 22:24
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3858&page=6&cd=member&ct=22">← 前へ</a></li>
+  <li>8/10</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3858&page=8&cd=member&ct=22">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3858&cd=member">トップページ</a><br /></body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>守屋 茜 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/11</span><br>
+<span class="kiji_day">26</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">守屋 茜</span>
+<span class="kiji_title">久しぶりの</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div>&nbsp;</div><div>こんばんわっほぃ(*´ ˘ `*).｡oO ( ♡ )</div><div>&nbsp;</div><div>明日は!!!!</div><div>ででん</div><div>でででん</div><div>テストがあります!ひぇー≡( 「ε:)ﾉ</div><div>やだよやだよやだよーーー。</div><div>ということで久しぶりに帰郷します</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mob8hHKhn.jpg"></div><div>&nbsp;</div><div>シャーペンも大好きなぴんく。(笑)</div><div>学生さん共に頑張ろうね!!!!</div><div>&nbsp;</div><div>制服も久しぶりだな～。</div><div>&nbsp;</div><div>それではテスト勉強してきまっする(*˙˘˙*)</div><div>&nbsp;</div><div>また<b>ねん</b></div><div>あした<b>ねん</b></div><div>おやすみ<b>ねん</b></div><div><b><br></b></div><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⊿Akanen⊿</b></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/11/26 23:01
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/11</span><br>
+<span class="kiji_day">25</span><span class="kiji_week">水</span>
+</td>
+<td class="title">
+<span class="kiji_member">守屋 茜</span>
+<span class="kiji_title">あいにくの雨と寒さ</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div>&nbsp;</div><div>みなさん</div><div>こんばんわぁ～～い*:｡✡*:｡✡</div><div>&nbsp;</div><div>風邪とかひいてないですか?</div><div>今日は雨でしたね(&gt;&lt;)</div><div>体調管理に必死です、、</div><div>&nbsp;</div><div>とあるロケに行って参りましたﾙﾝ(*’∪’*)ﾙﾝ♪</div><div>真冬の寒さ…?なんだかもう寒すぎて寒すぎて寒すぎました。でもすごく楽しかった…</div><div>終わってしまってすごく寂しい(˘•̥ω•̥˘)</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobUWTy3B.jpg"></div><div>&nbsp;</div><div>ゆいちゃんと(*^^)v</div><div>寒さで鼻赤くなってる(笑)</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobDHhTr7.jpg"></div><div>&nbsp;</div><div>おりっか～(おぜきりか)</div><div>おりかの服が気持ちよくてずっと触ってた</div><div>(▰˘◡˘▰照</div><div>同い年コンビだよ!!</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobQLgo8C.jpg"></div><div>&nbsp;</div><div>今日の髪型＼♡/</div><div>編み込みハーフアップです(*ˊ˘ˋ*)</div><div>すごく可愛い髪型にしてもらいました(♡)</div><div>&nbsp;</div><div>それでは</div><div>またあした*˙︶˙*)ﾉ"</div><div>晴れるかな～☀︎??</div><div>&nbsp;</div><div>あか<b>ねん</b>でした</div><div>また<b>ねん</b>～～d('∀'*)</div><div>&nbsp;</div><div>&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2015/11/25 23:47
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/11</span><br>
+<span class="kiji_day">24</span><span class="kiji_week">火</span>
+</td>
+<td class="title">
+<span class="kiji_member">守屋 茜</span>
+<span class="kiji_title">天気はどんより。雨の日のくらーい部屋の中がスキ。❤︎</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div>&nbsp;</div><div>今日すごく寒くないですか(TT)</div><div>もうとても短いコートじゃ耐えられずずっと欲しかったロングコートを買ってきました٩(๑˃̵ᴗ˂̵๑)۶ °♡♡</div><div>一人で買い物とかどこかに行ったり、ご飯食べに行くなどが好きなのでよく一人でどこかに行きます。</div><div>&nbsp;</div><div>- - - - - - - - - -- - - - - - - - - -- - - - - - - - -&nbsp;</div><div>&nbsp;</div><div>本日の写真は</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobUb043m.jpg"></div><div>&nbsp;</div><div>どーん。</div><div>左から</div><div>ふーちゃんとりさちゃんと私です</div><div>お見立て会の後に撮りました♪♪</div><div>&nbsp;</div><div>&nbsp;</div><div>それではまたあした(^ω^)</div><div>読んでくれてありがとうございます。</div><div>明日は小さい頃のお話とかしよっかな～って思っています!!お楽しみに＼♡/</div><div>&nbsp;</div><div>また<b>ねん</b></div><div>明日も読んで<b>ねん</b></div><div><b><br></b></div><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⊿akanen⊿</b></div><div>&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2015/11/24 23:15
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/11</span><br>
+<span class="kiji_day">23</span><span class="kiji_week">月</span>
+</td>
+<td class="title">
+<span class="kiji_member">守屋 茜</span>
+<span class="kiji_title">わーいわい</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div>&nbsp;</div><div>こんばんに～～\('ω`)｣*:｡✡</div><div>あかねんです。</div><div>&nbsp;</div><div>ダンスレッスン楽しかったなあ</div><div>ていうかお腹すきすぎてお腹が痛かった　　　</div><div>ご飯食べても食べてもなおらない!!!!</div><div>お腹すきすぎてお腹痛いって辛いですよね</div><div>なかなか治りません…( ºωº )</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobBgv7SI.jpg"></div><div>&nbsp;</div><div>食べるの大好き!!</div><div>だけど最近は撮影や収録などが多いので控えております!ダイエット頑張るぞ</div><div>&nbsp;</div><div>(/・ω・)/それでは</div><div>おさらばです</div><div>また<b>ねん</b></div><div><b>オヤスミ(  ˊ࿁ˋ ) ᐝ</b><b>ねん</b></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/11/23 23:08
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/11</span><br>
+<span class="kiji_day">22</span><span class="kiji_week">日</span>
+</td>
+<td class="title">
+<span class="kiji_member">守屋 茜</span>
+<span class="kiji_title">やっホリデイ!!!!</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div>&nbsp;</div><div>こんばんは(*^◯^*)</div><div>はやくも日曜日が終わってシマッターーーー!と思いきや明日もホリデイd('∀'*)ですね´`*</div><div>&nbsp;</div><div>皆さんはどんな休日をお過ごしですか?</div><div>&nbsp;</div><div>今日の写真は</div><div>&nbsp;</div><div><img src="/files/14/diary/k46/member/moblog/201511/mobnziDuG.jpg"></div><div>&nbsp;</div><div>一緒に帰ったメンです♪♪</div><div>初めてだ!!みんな冬の格好～*:｡✡</div><div>いつの間にかコート着ないと寒い時期になっちゃった(&gt;&lt;)でも冬は可愛い服がいーーーっぱいあるので好きです、でも寒いの苦手です…</div><div>&nbsp;</div><div>- - - - - - - - - -- - - - - - - - - -- - - - - - - - -&nbsp;</div><div>&nbsp;</div><div>そしてそして今夜は24:35~</div><div>欅って、書けない?</div><div>です(*ˊ˘ˋ*)♡</div><div>私の体力測定VTRも流れますのでぜひぜひ見て頂けると嬉しいです☆彡</div><div>私はリアルタイムで見ます!!今日はテキパキと終わらせないといけないことはもう片付けました、だからもう寝る準備も出来てま～す´ω`</div><div>&nbsp;</div><div>それでは</div><div>欅って、書けない?</div><div>でお会いしましょう\(  ˆoˆ )/\( ˆoˆ  )/</div><div>&nbsp;</div><div>Bye<b>ねん</b>❀</div><div>あか<b>ねん</b>❀</div><div>&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2015/11/22 21:58
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3834&page=13&cd=member&ct=18">← 前へ</a></li>
+  <li>15/18</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3834&page=15&cd=member&ct=18">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3834&cd=member">トップページ</a><br /></body>
+</html>

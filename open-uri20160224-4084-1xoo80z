@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>佐藤 詩織 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">16</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">佐藤 詩織</span>
+<span class="kiji_title">決戦 その?。</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div>こんばんは۬৺۬☆</div><div>いよいよあした。</div><div><br></div><div>おもてなし会であります。</div><div><br></div><div>まず、沢山の方が</div><div>ご応募してくださり、</div><div>感謝感謝です。</div><div><br></div><div>そして残念ながら</div><div>外れてしまった方、</div><div>すみません。。泣</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>メンバーそして沢山の</div><div>スタッフさん方と、</div><div><br></div><div>力を合わせ、</div><div><br></div><div>沢山話し合い相談し、</div><div><br></div><div>ひとつになって</div><div>今日まで頑張ってきました。</div><div><br></div><div><br></div><div>あしたあさって は いよいよ</div><div>そのすべてを<b>爆発</b>させ</div><div><br></div><div>皆さんに 全身全霊で</div><div>おもてなしします!</div><div><br></div><div><br></div><div>皆さんに楽しんで</div><div>帰っていただけるよう</div><div><br></div><div>最高のおもてなしが出来るよう</div><div><br></div><div><br></div><div>先人の日本人の方々の</div><div><b>和の心</b>をもって頑張ります!。。笑</div><div><br></div><div><br></div><div>よっしゃあ!</div><div>サムライ魂や〜〜!!</div><div><br></div><div><br></div><div>わたしも、楽しんで、</div><div><br></div><div>最高のパフォーマンスを</div><div>します!!!</div><div><br></div><div><br></div><div>皆様今日は早く寝て、</div><div><br></div><div><b>あしたはじっくりと</b></div><div><b><br></b></div><div><b>穴のあくほど、</b><br><br>見ていてくださ〜〜い!</div><div><br></div><div><br></div><div><br></div><div><br></div><div>それでは!またあした!</div><div><br></div><div>皆さんにお会いできるの</div><div>楽しみにしていまーす!۬৺۬☆</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobDVktL1.jpg" alt="image1.JPG" id="9C4AF42A-6044-4275-A074-746A1B4CEE1F"></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">ばいさ!</span></div><div><span style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><br></span>詩織**</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/16 00:46
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">13</span><span class="kiji_week">水</span>
+</td>
+<td class="title">
+<span class="kiji_member">佐藤 詩織</span>
+<span class="kiji_title">おーまいがー〜</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div>おーまいがー〜ー!</div><div><br></div><div><br></div><div>最近はよく 物をなくします。</div><div><br></div><div>…いや。違った。‼︎</div><div><br></div><div><br></div><div>昔からよく 物をなくします。</div><div><br></div><div><br></div><div>どこにやったかわからなくなります。</div><div><br></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div><div><b>ここにいれたはず。</b><br><br>そんな口ぐせ 嫌という程</div><div>言ってきました。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>わたしが物をなくして探すとき、</div><div><br></div><div>『ここにいれたはず。』</div><div><br></div><div>毎回言います。</div><div><br></div><div>でももう19年言い続けると、</div><div>家族も誰も信じてくれません。</div><div><br></div><div><br></div><div>そして</div><div>何日かして <b>ひょっこりと。</b></div><div><br></div><div><br></div><div>なんだか記憶のない場所から</div><div>突然、&nbsp;</div><div>彼らは</div><div>こんにちは &nbsp;するのです。</div><div><br></div><div><br></div><div><br></div><div>どうしてなのでしょう。</div><div><br></div><div>わたしには物を片付ける時の</div><div>愛情が足りないのでしょうか。?</div><div><br></div><div>もっと覚えときたい。</div><div><br></div><div><br></div><div><br></div><div>今日は</div><div>さがしもの&nbsp;</div><div>から始まった1日。</div><div><br></div><div><br></div><div>さがしもの の話で</div><div>1日を締めくくります۬৺۬☆</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>あしたは なにを</div><div>さがすのでしょう…?</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobfrGu3E.jpg" alt="image1.JPG" id="02230606-F2C7-43E1-8E01-44C7E4757B95"><br></div><div><br></div><div><br></div><div><br></div><div>詩織**</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/13 23:34
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">12</span><span class="kiji_week">火</span>
+</td>
+<td class="title">
+<span class="kiji_member">佐藤 詩織</span>
+<span class="kiji_title">時の流れに身をま〜かせ〜</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div>おい!なんでだい。</div><div><br></div><div>なんで1日は24時間なんだい。!</div><div><br></div><div>なんで時間が経つのは早いんだい!</div><div><br></div><div><br></div><div>うーむ。</div><div>こうしてBlogを書いてる間も</div><div><br></div><div>ずっと。</div><div><br></div><div>時に追いかけられています。</div><div><br></div><div><br></div><div><br></div><div><br></div><div>わたしはやることが基本遅いので</div><div><br></div><div>毎日が時間との戦いであります。</div><div><br></div><div>どうやったら、時よりまえに</div><div>いけるのか。</div><div><br></div><div>いまとても考えていました。</div><div><br></div><div><br></div><div><b>おっ。 今日は時間に勝ったぞ!</b><br><br><br></div><div>ときには 言ってみたいセリフで</div><div>あります。</div><div><br></div><div><br></div><div>なんだろか。</div><div><br></div><div>ほんとに時間に勝ちたい。</div><div><br></div><div>たまの たまには&nbsp;</div><div>今日まだこんな時間や!</div><div><br></div><div>って言ってみたい。</div><div><br></div><div><br></div><div><br></div><div>時の流れに ゆとりを感じたい。</div><div><br></div><div><br></div><div><br></div><div>いや、要領だけはいいんですよ!?</div><div>ちょっとこのセリフ鼻につくけど。笑</div><div><br></div><div><br></div><div><br></div><div>よーし。がんばるぞ、、</div><div><br></div><div>時の流れに逆らいたい。</div><div><br></div><div><br></div><div><br></div><div>よし。</div><div>自撮りばかりだと</div><div>皆様退屈しちゃったらいやなので</div><div>久々に絵をあげます。</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobHLLVQQ.png" alt="image1.PNG" id="0DC27730-3B94-4B95-9B7D-54579354C933"><br></div><div><br></div><div>高校生のとき。</div><div>美大に受かる為に 鬼のように</div><div>特訓していたときのもの。</div><div><br></div><div>テーマ 成長。</div><div><br></div><div>書道と融合し、文字デザインし、</div><div>文字を木に見立てました。</div><div><br></div><div><br></div><div>絵 &nbsp; 描くの やっぱり好き。♡</div><div><br></div><div><br></div><div><br></div><div>それでは おやすみなさい!</div><div><br></div><div>詩織**</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/12 23:58
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">11</span><span class="kiji_week">月</span>
+</td>
+<td class="title">
+<span class="kiji_member">佐藤 詩織</span>
+<span class="kiji_title">鼻につくはなし。</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><br></div><div>どうも。</div><div>いちいち鼻につく<br>佐藤詩織です۬৺۬☆笑</div><div><br></div><div>……。 &nbsp; &nbsp; &nbsp; &nbsp; 笑</div><div><br></div><div>きのうの 欅って、書けない?</div><div>見てくださった方はおわかり</div><div>ですよね?笑</div><div><br></div><div>はい。わたし鼻につくこと</div><div>たくさん語りはじめちゃって…笑</div><div><br></div><div>し!か!も!!!!</div><div><br></div><div><b>話が長いっっ!!!!!!!!!!!!!笑</b></div><div><br></div><div>この世界に入るまで、</div><div>自分が話ながいニンゲンだなんて</div><div>知りませんでした。</div><div>気づかなかったなーー。(._.)笑</div><div><br></div><div>みんなお友達とかも、いつも</div><div>話長いな!って思いつつ、</div><div>聞いてくれてたのかなと思うと</div><div>ふひゃああぁって感じです。</div><div><br></div><div><br></div><div>でも</div><div><br></div><div><br></div><div>たくさん話した方が</div><div>ニンゲン良いと思うので。</div><div><br></div><div>これからも何も気にせず、</div><div>話します。</div><div><br></div><div><br></div><div>…ふふん。</div><div><br></div><div>これだけ話すだけなのに</div><div>こんな長いんですよ。。笑</div><div><br></div><div>ニンゲン難しいなあ、、笑</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><b>今日はどうでもよい豆知識教えます。</b></div><div>鼻につきながら話します。笑</div><div><br></div><div><br></div><div>わたしの永遠の敵。髪の色落ち。</div><div><br></div><div>それをちょっとでも解消できる豆知識。</div><div><br></div><div><br></div><div>とくにわたしと同じ様に、</div><div>髪がオレンジになっていきやすい方に</div><div>おすすめ。</div><div><br></div><div><br></div><div>ズバリ、<b>反対色を入れる</b> &nbsp; &nbsp; です。</div><div><br></div><div>これは色相環っていうのが</div><div>関係してるのですが〜</div><div><br></div><div>オレンジや赤の反対色って</div><div>青とか 緑あたりなんですよ。</div><div><br></div><div>だから髪を染める時、</div><div>オレンジになりやすい人は&nbsp;</div><div>青か緑を入れてください!って</div><div>お願いすると髪の毛が</div><div>暗く落ち着くしよいですよ!</div><div><br></div><div><br></div><div>色相環を説明すると、</div><div>↓こんな感じ。</div><div><img src="/files/14/diary/k46/member/moblog/201601/mobze63DL.jpg" alt="image1.JPG" id="5985EC60-5AA2-4708-91F0-468BDD0F2C98"><br></div><div>汚くてすいません。笑</div><div><br></div><div>色には並び順があり、</div><div>それぞれの色には反対色(<b>補色</b>)</div><div>があります。</div><div><br></div><div>矢印で 対になってるものが</div><div>補色の関係の ふたつの色です。</div><div><br></div><div>この補色には不思議なことがあり、</div><div><b>補色のふたつの色を混ぜると</b></div><div><b>黒になる</b> という関係性があります。</div><div><br></div><div>だから、髪色を落ち着かせたいときも</div><div>補色をいれてもらうと、</div><div>色が落ち着きます!</div><div><br></div><div><br></div><div><br></div><div>あと、<b>補色のふたつの色を</b></div><div><b>隣同士にもってくると、</b></div><div><b>バチバチしてみえます!</b></div><div><br></div><div><b>LIVEのうちわとかにもオススメ!!</b></div><div>緑の背景に赤の文字とか、</div><div>補色同士を使うと目立ちますよー!</div><div><br></div><div><br></div><div><br></div><div>よし。</div><div>話がどんどん広がってっちゃうので</div><div>ここらで終わりにします。</div><div><br></div><div>おやすみなさい。</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobu4JyCN.jpg" alt="image2.JPG" id="370A6EA7-8421-4B65-9FAE-CA2823FBDBF4"><br></div><div><br></div><div>詩織**</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/11 23:26
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">10</span><span class="kiji_week">日</span>
+</td>
+<td class="title">
+<span class="kiji_member">佐藤 詩織</span>
+<span class="kiji_title">深呼吸。</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<br />
+最近、深呼吸をよくします。<br />
+いろんなことを考えます。<br />
+<br />
+家族と友達の大切さを<br />
+本当に感じる毎日を過ごしてます。<br />
+<br />
+皆さんはどんなことを考えていますか?<br />
+<br />
+1日1日って、<br />
+もう二度とやってこないわけであり、<br />
+今日はもうやってこないから。<br />
+<br />
+1日1日を大切に過ごしたいですよね。<br />
+<br />
+<br />
+おもてなし会。<br />
+<br />
+決定いたしました。!<br />
+<br />
+沢山のかたにご応募いただいてる<br />
+みたいで嬉しい。!!<br />
+<br />
+毎日みんなで沢山頑張っています!<br />
+<br />
+満足させられるように<br />
+がんばるぞー<br />
+<br />
+<br />
+ではでは!<br />
+<br />
+<br />
+<img src="/img/14/diar/88/mem/member/sub-member-1104_jpg.jpg" /><br />
+<br />
+<br />
+詩織**
+</div>
+
+<div class="kiji_foot">
+2016/01/10 23:48
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3723&page=3&cd=member&ct=09">← 前へ</a></li>
+  <li>5/15</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3723&page=5&cd=member&ct=09">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3723&cd=member">トップページ</a><br /></body>
+</html>

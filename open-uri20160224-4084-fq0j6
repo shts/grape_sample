@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>齋藤 冬優花 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">09</span><span class="kiji_week">火</span>
+</td>
+<td class="title">
+<span class="kiji_member">齋藤 冬優花</span>
+<span class="kiji_title">＼︎︎自慢のアイドル❤︎︎88/</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">. ゜*。:゜こんばんは. ゜*。:゜</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">まず1つ言わせてください。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">高山一実さん、</div><div align="center">お誕生日おめでとうございます(≧∇≦)︎︎❤︎︎︎︎❤︎︎</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">(*'∇')/ﾟ･:*【祝22歳】*:･ﾟ＼('∇'*)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">同じ2月に生まれて来れたこと、</div><div align="center">とても嬉しいです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">高山さんにとって</div><div align="center">素敵な1年になりますように_(._.)_　❁❁❁</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">本日から、個別握手会の申込が</div><div align="center">はじまりました。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ｷｬ━━━━(ﾟ∀ﾟ)━━━━!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">素直に、楽しみです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">個別握手会は初めてなので、</div><div align="center">ドキドキですが…………。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">私には1つ心に決めていることがあります。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">それはいつかファンの皆さんに私のことを</div><div align="center">&nbsp;</div><div align="center">｢自慢のアイドル｣</div><div align="center">&nbsp;</div><div align="center">と思ってもらえるようになることです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">｢ふーちゃんの初めての個別握手会行った(*`ω´*)ﾄﾞﾔｯ｣</div><div align="center">&nbsp;</div><div align="center">って、何年後かに自慢できるくらいの</div><div align="center">アイドルになりたい。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">今はまだ私の名前を言っても</div><div align="center">伝わらないと思うので、、、(泣)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">何年かかるかわからないけど、</div><div align="center">少しずつ少しずつ頑張ります。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobFRI6IS.jpg"></div><div align="center">&nbsp;</div><div align="center">左から、尾関︎︎、今泉、私、土生です︎︎❤︎︎</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">モザイクモール港北の新星堂さんに</div><div align="center">いただいたレモネードと(*´ω`*)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">美味しすぎてびっくりしました。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">是非飲んでみてください♬*ﾟ</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobvKduaf.jpg"></div><div align="center">&nbsp;</div><div align="center">ハミガキ泉佑唯さんと</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobUT0vZB.jpg"></div><div align="center">&nbsp;</div><div align="center">ぺりか!(渡辺梨加)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ばいばいふ〜(*´ ³ `)ﾉ</div><div align="center">&nbsp;</div><div align="center">20160208︎︎❤︎︎ふー</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/09 01:44
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">07</span><span class="kiji_week">日</span>
+</td>
+<td class="title">
+<span class="kiji_member">齋藤 冬優花</span>
+<span class="kiji_title">＼︎︎尾関梨香について❤︎︎87/</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mob3Chpz0.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">こんにには〜(￣▽￣). ゜*。:゜</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ひさびさのお昼更新です!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">今回は尾関スタイルこと</div><div align="center">尾関梨香についてちょっぴりおはなし♪</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">尾関はとにかく食べます。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">普通の人以上に食べます(笑)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">上の写真も</div><div align="center">美味しそうに食べている尾関です。</div><div align="center">(すっぴんなので顔は隠しました)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">以前、夢の国へ行った時も</div><div align="center">信じられないほど食べていました(❁´ω`❁)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">∵⃝♡⍢⃝ ⍤⃝ ⍨⃝ ∵⃝♡⍢⃝ ⍤⃝ ⍨⃝ ∵⃝♡⍢⃝</div><div align="center">&nbsp;</div><div align="center">〜尾関梨香食べたものリスト〜</div><div align="center">&nbsp;</div><div align="center">①ホワイトチョコのポップコーン</div><div align="center">②エイリアンの饅頭3つ</div><div align="center">③ホタテコロッケバーガー</div><div align="center">④フライドポテト</div><div align="center">⑤ティラミスアイス</div><div align="center">⑥チョコ味のポップコーン</div><div align="center">⑦大きめにくまん2つ</div><div align="center">&nbsp;</div><div align="center">⚠︎ちなみに朝ごはんも食べています</div><div align="center">→納豆ご飯</div><div align="center">→食パン1枚</div><div align="center">→肉巻き</div><div align="center">→コロッケ</div><div align="center">→野菜鍋</div><div align="center">→6pチーズ</div><div align="center">&nbsp;</div><div align="center">∵⃝♡⍢⃝ ⍤⃝ ⍨⃝ ∵⃝♡⍢⃝ ⍤⃝ ⍨⃝ ∵⃝♡⍢⃝</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ただ、尾関は脚に肉がつかないのに</div><div align="center">顔にすぐついてしまうのが悩みだそうです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">お正月明けあったときに</div><div align="center">顔がパンパンになっていて可愛かった｡ﾟ(ﾟ^∀︎^ﾟ)ﾟ｡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">でも本人はそれが最大の悩みらしいですので、</div><div align="center">顔痩せについて詳しい方がいましたら</div><div align="center">アドバイスをしてあげてください(笑)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">わたしもダイエットは最大の課題だ!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">一緒に頑張ろうね(ง •̀_•́)ง</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">以上、尾関梨香についてでした(๑¯﹀¯๑)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mob7GT5RE.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ばいばいふ〜(*´ ³ `)ﾉ</div><div align="center">&nbsp;</div><div align="center">20160207︎︎❤︎︎ふー</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/07 17:39
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">06</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">齋藤 冬優花</span>
+<span class="kiji_title">＼いっぱい回った︎︎❤︎︎86/</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">こんばんは!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">本日発表がありました通り、</div><div align="center">&nbsp;</div><div align="center">欅坂46のデビューが決定いたしました(&gt;&lt;｡)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ありがとうございます。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">有難いことに欅坂46の｢46｣、</div><div align="center">4月6日(水)がデビュー日です☆彡.。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">そして本日はデビューに向けて、</div><div align="center">挨拶回りに行ってきました。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">3チームに別れて、合計46店舗行きました♬*ﾟ</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">わたしは主に神奈川県担当(今泉,尾関,齋藤,土生)でしたが、</div><div align="center">お店の方々はとっても優しい方ばかりで</div><div align="center">嬉しかったです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">かけつけてくださった方も、</div><div align="center">わざわざありがとうございます!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">一瞬しか挨拶をできず、すみません。</div><div align="center">握手会などでゆっくりお話したいです(TT)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">そうなんです!!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">握手会も決定しました!!!!!!!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">やっと皆さんに感謝の気持ちを伝えられる。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">これから先、楽しいことはもちろん</div><div align="center">辛いこともたくさんあるとは思いますが、</div><div align="center">&nbsp;</div><div align="center">みなさんと一緒に成長していきたいです。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">本日は写真がありません!泣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">またあした載せます(❁´ω`❁)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ばいばいふ〜(*´ ³ `)ﾉ</div><div align="center">&nbsp;</div><div align="center">20160206︎︎❤︎︎ふー</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">デビューまであと2ヶ月</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/06 23:12
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">05</span><span class="kiji_week">金</span>
+</td>
+<td class="title">
+<span class="kiji_member">齋藤 冬優花</span>
+<span class="kiji_title">＼︎︎欅坂あるある❤︎︎85/</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">こんばんは〜´(●●)`♡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">1/30に行われた</div><div align="center">オールライブニッポンを終えてホッとしたのか</div><div align="center">少し食べてしまっているので、</div><div align="center">気をつけようと思います。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">最近、空腹を満たすために</div><div align="center">｢食べ物フォルダ｣を作りました(笑)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">今まで食べて美味しかったものや、</div><div align="center">友人から送られてきた美味しい食べ物など</div><div align="center">たくさんの画像があります!!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">見てると幸せになる〜(﹡ˆωˆ﹡)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">りさ(渡邉理佐)と撮っていたら</div><div align="center">↓↓↓</div><div align="center">&nbsp;</div><div align="center"></div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobYlwBDu.jpg"></div><div align="center">&nbsp;</div><div align="center">原田葵が参加して</div><div align="center">↓↓↓</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobbGEc8n.jpg"></div><div align="center">&nbsp;</div><div align="center">あかねん(守屋茜)が参加</div><div align="center">↓↓↓</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobkoEjYh.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">♡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">あかねん(守屋茜)と〜︎︎❤︎︎</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/moblxOmcc.jpg"></div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mob7iEZI6.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">2枚目の私と茜の間に</div><div align="center">誰かの〝手〟が…………。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">また原田葵か〜(￣▽￣)と思ったら</div><div align="center">長沢くん(長沢菜々香)でした。笑</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">欅坂のメンバーで写真を撮ると、</div><div align="center">気づいたら人数が増えています(O_O)!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">合言葉は｢わたしもいれて〜♡｣</div><div align="center">です!(笑)</div><div align="center">&nbsp;</div><div align="center">あおい(原田葵)がダントツ多いですね。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">以上、欅坂あるあるでしたっ</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">明日(2016/02/06)の午前10時、</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">なにが起こるのかな〜???</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobxmfvw1.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ばいばいふ〜(*´ ³ `)ﾉ</div><div align="center">&nbsp;</div><div align="center">20160205︎︎❤︎︎ふー</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/05 20:50
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/2</span><br>
+<span class="kiji_day">04</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">齋藤 冬優花</span>
+<span class="kiji_title">＼︎︎欅坂ダンス部❤︎︎84/</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">こんばんは♬*ﾟ</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">本日は朝6時に起きましたので</div><div align="center">&nbsp;</div><div align="center">大変ねむいです(⊃ωｰ`).｡oOｱﾜｱﾜ</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ブログを毎日書くようになってから</div><div align="center">&nbsp;</div><div align="center">その日にあった事を振り返ることができるので</div><div align="center">&nbsp;</div><div align="center">とても良い習慣になっています!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">毎日欠かさず読んで下さっている方、</div><div align="center">&nbsp;</div><div align="center">本当にありがとうございます(&gt;︿&lt;。)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">￣￣￣￣￣￣￣￣￣￣￣￣</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">この前、欅坂ダンス部(石森,齋藤,鈴本,土生,平手)で</div><div align="center">おもてなし会&オールライブニッポンの</div><div align="center">おつかれさま会を開きました♡♡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">初めは特に共通点があるわけでもない5人でしたが</div><div align="center">気づいた時にはとても仲良しになっていました。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">同じ目標に向かって練習に励み、</div><div align="center">目標を達成したときに</div><div align="center">本当の絆が生まれた気がします☆*。</div><div align="center">&nbsp;</div><div align="center">(かっこいいこと言ってみた)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobmjg26A.jpg"></div><div align="center">&nbsp;</div><div align="center">左から</div><div align="center">すずもと(鈴本美愉)</div><div align="center">私</div><div align="center">てち(平手友梨奈)</div><div align="center">はぶちゃん(土生瑞穂)です♡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">にじか(石森虹花)は途中用事のため</div><div align="center">ぬけてしまいました(´;ω;`)</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">なのでこの前の写真を</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobj8zw4e.jpg"></div><div align="center">&nbsp;</div><div align="center">左上から</div><div align="center">はぶちゃん(土生瑞穂)</div><div align="center">にじか(石森虹花)</div><div align="center">すずもと(鈴本美愉)</div><div align="center">てち(平手友梨奈)</div><div align="center">私です♡</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">変な写真(๑¯﹀¯๑)</div><div align="center">&nbsp;</div><div align="center">って思った方いらっしゃると思いますが</div><div align="center">&nbsp;</div><div align="center">それぞれのワンポーズなのです!!!</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">わぁ〜大好きだぁ〜。</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center"><img src="/files/14/diary/k46/member/moblog/201602/mobuZEhlT.jpg"></div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">ばいばいふ〜(*´ ³ `)ﾉ</div><div align="center">&nbsp;</div><div align="center">20160204︎︎❤︎︎ふー</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div><div align="center">&nbsp;</div></div>
+</div>
+
+<div class="kiji_foot">
+2016/02/04 23:27
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3711&page=2&cd=member&ct=08">← 前へ</a></li>
+  <li>4/21</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3711&page=4&cd=member&ct=08">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3711&cd=member">トップページ</a><br /></body>
+</html>

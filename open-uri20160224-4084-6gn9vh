@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link href="/files/14/css/bootstrap.min.css" rel="stylesheet">
+<link href="/files/14/css/jumbotron-narrow.css" rel="stylesheet">
+<link href="/files/14/css/asp-form.css" rel="stylesheet">
+
+<link href="/files/14/css/common.css" rel="stylesheet">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68428703-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<title>欅坂46オフィシャルブログ</title>
+</head>
+<body><div class="container">
+<div class="col-lg-12">
+<h1><a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member"><img src="http://www.keyakizaka46.com/common/img/pc/ttl_toriizaka46.png" alt="欅坂46" class="logo"></a></h1>
+</div><h4>渡邉 理佐 OFFICIAL BLOG
+</h4>
+
+<div class="row">
+
+<div class="col-lg-4">
+<div class='calender_pats'>
+<table class='cale_table'>
+    <tr>
+        <td>　</td>
+        <td class='cale_prev'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=201601'>&lt;</a></td>
+        <td class='cale_month' colspan='3'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=201602'>2016年02月</a></td>
+        <td class='cale_next'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=201603'>&gt;</a></a></td>
+        <td>　</td>
+    </tr>
+    <tr>
+        <td class='cale_wek0'>日</td>
+        <td class='cale_wek1'>月</td>
+        <td class='cale_wek2'>火</td>
+        <td class='cale_wek3'>水</td>
+        <td class='cale_wek4'>木</td>
+        <td class='cale_wek5'>金</td>
+        <td class='cale_wek6'>土</td>
+    </tr>
+    <tr>
+        <td>　</td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160201'>01</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160202'>02</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160203'>03</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160204'>04</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160205'>05</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160206'>06</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160207'>07</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160208'>08</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160209'>09</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160210'>10</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160211'>11</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160212'>12</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160213'>13</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160214'>14</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160215'>15</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160216'>16</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160217'>17</a></td>
+        <td class='cale_day4'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160218'>18</a></td>
+        <td class='cale_day5'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160219'>19</a></td>
+        <td class='cale_day6'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160220'>20</a></td>
+    </tr>
+    <tr>
+        <td class='cale_day0'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160221'>21</a></td>
+        <td class='cale_day1'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160222'>22</a></td>
+        <td class='cale_day2'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160223'>23</a></td>
+        <td class='cale_day3'><a href='/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&dy=20160224'>24</a></td>
+        <td class='cale_day4'>25</td>
+        <td class='cale_day5'>26</td>
+        <td class='cale_day6'>27</td>
+    </tr>
+    <tr>
+        <td class='cale_day0'>28</td>
+        <td class='cale_day1'>29</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+        <td>　</td>
+    </tr>
+</table>
+</div>
+
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 10px;"><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=01"><span class="badge pull-right">87</span>石森 虹花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=02"><span class="badge pull-right">111</span>今泉 佑唯</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=03"><span class="badge pull-right">100</span>上村 莉菜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=04"><span class="badge pull-right">86</span>尾関 梨香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=05"><span class="badge pull-right">86</span>織田 奈那</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=06"><span class="badge pull-right">89</span>小池 美波</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=07"><span class="badge pull-right">100</span>小林 由依</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=08"><span class="badge pull-right">103</span>齋藤 冬優花</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=09"><span class="badge pull-right">71</span>佐藤 詩織</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=10"><span class="badge pull-right">75</span>志田 愛佳</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=11"><span class="badge pull-right">104</span>菅井 友香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=12"><span class="badge pull-right">60</span>鈴本 美愉</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=13"><span class="badge pull-right">106</span>長沢 菜々香</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=14"><span class="badge pull-right">51</span>土生 瑞穂</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=15"><span class="badge pull-right">77</span>原田 葵</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=17"><span class="badge pull-right">52</span>平手 友梨奈</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=18"><span class="badge pull-right">86</span>守屋 茜</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=19"><span class="badge pull-right">61</span>米谷 奈々未</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=20"><span class="badge pull-right">39</span>渡辺 梨加</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=21"><span class="badge pull-right">64</span>渡邉 理佐</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=22"><span class="badge pull-right">46</span>長濱 ねる</a>
+</li><li>
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member&ct=99"><span class="badge pull-right">5</span>OFFICIAL REPORT</a>
+</li></ul>
+</div>
+
+<div class="col-lg-8">
+
+<div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">05</span><span class="kiji_week">火</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">答え合わせ</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><br></div><div><br></div><div><br></div><div><br></div><div>こんばんは!!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>今日は前のブログの答え合わせしまーす<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">まず、12月30日のブログの答え!!</span></div></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">①、②、③ のどれかという問題でしたが、、、</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">全部正解です!(笑)</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">①の遊園地にも行って、②のおばあちゃんの家にも行って、③のどこにも行かない日もあったので、みなさんせいかーい☆彡</span></font></div></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">次に、12月31日のブログの写真の誰の指だったかは〜〜〜</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">葵でした!!(笑)</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">当たった人いますか〜?(*^^*)</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">そしてそして!</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">1日遅れちゃったけど、1月4日は莉菜ちゃんの19歳のお誕生日♡</span></font></div></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">わたしより2つ歳上だけど、妹みたいです!</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">よく、ママと娘ごっこしてます(笑)</span></font></div><div><br></div><div>最近会ってないから早く会いたい(´･_･`)</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobmhEqS9.png" alt="image1.PNG" id="737AEEE2-2FA8-4E6A-90FE-062ED794580A"><br></div><div><br></div><div><br></div><div>よし!もう夜遅いので寝ます!</div><div><br></div><div>おやすみなさい</div><div><br></div><div><br></div><div>ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b><br></b></span></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/05 23:30
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">03</span><span class="kiji_week">日</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">洗濯</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>夜ごはんはカレー食べました。</div><div>マッシュルームのカレーでした。</div><div><br></div><div><br></div><div>美味しかった!!!!</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>そういえば</div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobs9Za7U.jpg" alt="image1.JPG" id="9C01A623-AC73-4186-A534-7869BEFC155D"><br></div><div><br></div><div><br></div><div>乃木神社に行ってきました〜</div><div><br></div><div>ずっと行きたいと思っていたので、行けてよかった<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">甘酒も飲みました。</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">おみくじは違う神社で引きました!</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">何が出たでしょう</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">正解は、、</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">秘密!!!!!</span></font></div></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">あーお腹いっぱい。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">昨日食べたチーズケーキが美味しかった。</span></font></div><div>また今度行ってみよう。</div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">写真撮り忘れました、、</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><br></div><div><br></div><div><br></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">今日、洗濯機を回しました。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">お布団を洗ったんですが、干すときに落として洗い直し。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;">結果、3回も回しました。</span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><br></span></font></div><div>洗濯って楽しい。</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><b>りさ</b></span></font></div><div><font color="#454545"><span style="text-decoration: -webkit-letterpress;"><b><br></b></span></font></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/03 22:07
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">02</span><span class="kiji_week">土</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">いろいろ</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><br></div><div><br></div><div><br></div><div>こんばんは!!</div><div><br></div><div><br></div><div><br></div><div><br></div><div>この前電車に乗ったとき、三次審査の会場があった最寄駅を通って、なんだか懐かしくなりました。</div><div><br></div><div>もう4ヶ月以上も経ってる、、</div><div><br></div><div><br></div><div>今でもオーディションのことは鮮明に覚えています。</div><div><br></div><div>懐かしいな〜</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>そして!!</div><div><br></div><div>今日は初売りに行ってきました〜</div><div>欲しかった洋服が買えたので満足満足☆彡</div><div><br></div><div><br></div><div>新しいコートを買うか買わないか迷ってお店を何度も行き来したのですが、結局買いませんでした(笑)</div><div><br></div><div><br></div><div>お母さんに相談してみよう</div><div><br></div><div><br></div><div><br></div><div><br></div><div>友達とお揃いの物も買いました!!</div><div><br></div><div>何を買ったでしょうかーーーー???</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mobQIlpSB.png" alt="image1.PNG" id="1F2A3320-C4E0-4BB9-8AA9-5A2C575942D1"><br></div><div><br></div><div><br></div><div><br></div><div>ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b><br></b></span></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/02 22:55
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2016/1</span><br>
+<span class="kiji_day">01</span><span class="kiji_week">金</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">さる</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span>2016年、こんにちは。</span><br><span></span><br><span></span><br><span>新年 あけまして おめでとうございます。</span><br><span></span><br><span></span><br><span>普通の高校生だったわたしが、受かると思うわけもなく、友達に勧められて、流れと勢いで受けたオーディションですが、ここまで人生が変わるなんてその時は思いもしませんでした。</span><br><span></span><br><span></span><br><span>受かった時は、これから先どうしていいかわからず不安でいっぱいでしたが、今は勧めてくれた友達に本当に感謝しています。</span><br><span></span><br><span></span><br><span>欅坂46に入っていなかったら出来ないことをたくさんさせて頂いています。</span><br><span></span><br><span></span><br><span>ファンの皆様や周りで応援してくれている人たちのためにも、これからの活動を一生懸命、みんなで頑張ります。</span><br><span></span><br><span>2016年も応援よろしくお願いします。</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mob5mDnGX.jpg" id="C190629C-4A1A-49A9-AAB3-D33BF4769A75"></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>これはわたしの大切な画像です。</span><br><span></span><br><span>欅坂に受かったことを伝えたら、友達がサプライズしてくれました。</span><br><span></span><br><span>みんなでわたしにバレないように計画を立ててくれていたみたいで、サプライズされた時は、人生で初めて腰が抜けました(笑)</span><br><span></span><br><span></span><br><span>そのくらい嬉しかったです。</span><br><span></span><br><span>またみんなに会いたいな</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>元旦、みなさんどのようにお過ごしですか??</span><br><span></span><br><span></span><br><span>わたしは毎年恒例 親戚たちと集まってご飯食べました!!</span><br><span></span><br><span></span><br></div><div><img src="/files/14/diary/k46/member/moblog/201601/mob8Bf7TM.png" id="C09BBF1D-B5CC-49A8-828B-8CBFB34D2395"></div><div><br></div><div><span></span><br><span>大好きなエビを食べました!!</span><br><span></span><br><span>お餅も食べてお腹が割れそうです(笑)</span><br><span></span><br><br><span></span><br><span>あ。ダイエット再開します。。</span><br><span></span><br><br><br><br><br><br><br></div><div><br></div><div><br></div><div>今年もよろしくお願いします^ ^</div><div><br></div><div><br></div><div><br></div><div><br></div><div>ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><b>りさ</b></div><div><b><br></b></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2016/01/01 20:42
+</div>
+</div><div class="kiji">
+<table class="kiji_head">
+<td class="date">
+<span class="kiji_yearmonth">2015/12</span><br>
+<span class="kiji_day">31</span><span class="kiji_week">木</span>
+</td>
+<td class="title">
+<span class="kiji_member">渡邉 理佐</span>
+<span class="kiji_title">大晦日</span>
+</td>
+</table>
+
+<div  class="kiji_body">
+<div><div><span></span></div><div><meta http-equiv="content-type" content="text/html; charset=utf-8"><div><span></span></div><div><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>もう31日、、</span><br><span></span><br><span>大晦日、、</span><br><span></span><br><span></span><br><span>一年前が昨日のことみたいです。</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>それはないか。(笑)</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><br><span></span><br><br><br><br><br><br><br><br><span></span><br><span></span><br><span>今 録画していた番組を見ています。</span><br><span></span><br><span>”今夜くらべてみました”</span><br><span>”ザ!世界仰天ニュース”</span><br><span></span><br><span>わたしがよく見る番組です。</span><br><span></span><br><span></span><br><span></span><br><span>この前放送していた、”世界の怖い夜!”が怖くて、全然先に進みません。</span><br><span></span><br><span>止めて、少し見て、を繰り返してます。</span><br><span></span><br><span>たまにちょっと早送りしてしまいます、、</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span>小さい頃からテレビ大好きです。</span><br><span></span><br><span>リモコンは誰にも渡しませんでした。</span><br><span></span><br><span>今では自分の部屋にテレビがあるので、誰かに取られることありません。</span><br><span></span><br><span></span><br><span></span><br><span>テレビが付いてないと眠れない。</span><br><span>真っ暗だと眠れない。</span><br><span></span><br><span></span><br><span>あ、でもちゃんとタイマーをセットしてから寝るので、朝起きたら消えてます!</span><br><span></span><br><br><span></span>みなさんは寝るとき真っ暗にして寝ますか??<br><span></span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span></span><br><span></span><br><span>今日は、紅白歌合戦を見ます!</span><br><span></span><br><span>乃木坂46さんが出演するので、とても楽しみです^ ^</span><br><span></span><br><span>録画予約完璧!!</span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><span></span><br><br><br><br><br><br><span></span><br><span></span><br><span></span><br><span>そして、もう知っている方もいると思いますが、ニッポン放送さんで、欅坂46全員でラジオをやらせて頂きます。</span><br><span></span><br><span></span><br><span>2016年1月4日(月) &nbsp;25時～27時</span><br><span>「欅坂46のオールナイトニッポン」</span><br><span></span><br><span>2016年1月30日(土)、2月27日(土)、3月26日(土) &nbsp;27時～29時</span><br><span>「欅坂46のオールナイトニッポンR」</span><br><span></span><br><span></span><br><span>先日、収録してきました!!</span></div><div><br><span></span>まだデビューもしていないのに、伝統のあるラジオに出させて頂けるなんて光栄です。</div><div><br></div><div>有難いことです。</div><div><br></div><div>本当にわたしたちは恵まれているなと思います。</div><div>いつも周りで支えてくださる方に、感謝の気持ちを忘れず、これからも頑張ります。</div><div><br></div><div><br><span>夜遅いですが、是非聴いてくれたら嬉しいです(*^^*)</span></div><div><span><br></span></div><div><span><br></span></div><div><span><br></span></div><div><span><br></span></div><div><span><br></span></div><div><span><br></span></div><div><br></div><div><br></div><div><br></div><div><br></div><div>2015年ありがとう</div><div><br></div><div><br></div><div><br></div><div><img src="/files/14/diary/k46/member/moblog/201512/mobSPKbfr.jpg" alt="image1.JPG" id="505AC13D-6DA2-4698-9993-C21C6367D096"><br></div><div><br></div><div><br></div><div>誰の手だ(笑)</div><div><br></div><div><br></div><div>みなさん、よいお年をお迎えください!</div><div><br></div><div><br></div><div>ばいばい<span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;">\( ¨̮ )/</span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><br></span></div><div><span style="color: rgb(69, 69, 69); text-decoration: -webkit-letterpress;"><b>りさ</b></span></div><div><span><br></span></div><div><span><br></span></div><div><span><br></span></div></div></div>
+</div>
+
+<div class="kiji_foot">
+2015/12/31 22:28
+</div>
+</div>
+
+
+<div class="row">
+<ul class="pager">
+  <li class="previous"><a href="/mob/news/diarKiji.php?site=k46&ima=3847&page=3&cd=member&ct=21">← 前へ</a></li>
+  <li>5/13</li>
+  <li class="next"><a href="/mob/news/diarKiji.php?site=k46&ima=3847&page=5&cd=member&ct=21">次へ →</a></li>
+</ul>
+</div>
+
+</div>
+
+</div>
+<hr />
+<a href="/mob/news/diarKiji.php?site=k46&ima=3847&cd=member">トップページ</a><br /></body>
+</html>
